@@ -28,12 +28,12 @@
 
 ### Robots
 
-| UR | Kuka iiwa | 
-| ---              | ---       |
-|  <img src="https://github.com/JayamuruganRavikumar/devicon/blob/dev/icons/ur/universal-robots.svg" title="Universal Robots" alt="UR" width="55" height="55"/>                | <img src="https://github.com/JayamuruganRavikumar/devicon/blob/dev/icons/kuka/kuka.svg" title="Kuka" alt="Kuka" width="55" height="55"/>          | 
+| UR                                                                                                                                                           | Kuka iiwa |
+| ---                                                                                                                                                          | ---       |
+| <img src="https://github.com/JayamuruganRavikumar/devicon/blob/dev/icons/ur/universal-robots.svg" title="Universal Robots" alt="UR" width="55" height="55"/> |           |
 
 ### Developement Boards
 
-| Nvidia Jetson | Raspberry Pi                                                                                                                                     | Arduino |
-| ---           | ---                                                                                                                                              | ---     |
-| <img src="https://github.com/JayamuruganRavikumar/devicon/blob/dev/icons/jetson/Jetson.svg" title="NeoVim" alt="NeoVim" width="55" height="55"/>              | <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="NeoVim" alt="NeoVim" width="55" height="55"/> |
+| Nvidia Jetson | Raspberry Pi                                                                                                                                                                    | Arduino |
+| ---           | ---                                                                                                                                                                             | ---     |
+|               | <img src="https://github.com/JayamuruganRavikumar/devicon/blob/dev/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="55" height="55"/> | <img src="https://github.com/JayamuruganRavikumar/devicon/blob/dev/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" width="55" height="55"/> |
