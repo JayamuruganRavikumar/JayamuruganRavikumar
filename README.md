@@ -25,3 +25,15 @@
 | Jupyter                                                                                                                                                       | NeoVim                                                                                                                                           | Matlab                                                                                                                        |
 | ---                                                                                                                                                           | ---                                                                                                                                              | ---                                                                                                                           |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="NeoVim" alt="NeoVim" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="55" height="55"/> |
+
+### Robots
+
+| Universal Robots | Kuka iiwa | Turtlebot |
+| ---              | ---       | ---       |
+|  <img src="https://github.com/JayamuruganRavikumar/devicon/blob/dev/icons/ur/universal-robots.svg" title="NeoVim" alt="NeoVim" width="55" height="55"/>                |           |           |
+
+### Developement Boards
+
+| Nvidia Jetson | Raspberry Pi                                                                                                                                     | Arduino |
+| ---           | ---                                                                                                                                              | ---     |
+| <img src="https://github.com/JayamuruganRavikumar/devicon/blob/dev/icons/jetson/Jetson.svg" title="NeoVim" alt="NeoVim" width="55" height="55"/>              | <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="NeoVim" alt="NeoVim" width="55" height="55"/> |
