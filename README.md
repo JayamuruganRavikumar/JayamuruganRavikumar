@@ -28,9 +28,9 @@
 
 ### Robots
 
-| Universal Robots | Kuka iiwa | Turtlebot |
-| ---              | ---       | ---       |
-|  <img src="https://github.com/JayamuruganRavikumar/devicon/blob/dev/icons/ur/universal-robots.svg" title="NeoVim" alt="NeoVim" width="55" height="55"/>                |           |           |
+| UR | Kuka iiwa | 
+| ---              | ---       |
+|  <img src="https://github.com/JayamuruganRavikumar/devicon/blob/dev/icons/ur/universal-robots.svg" title="Universal Robots" alt="UR" width="55" height="55"/>                | <img src="https://github.com/JayamuruganRavikumar/devicon/blob/dev/icons/kuka/kuka.svg" title="Kuka" alt="Kuka" width="55" height="55"/>          | 
 
 ### Developement Boards
 
