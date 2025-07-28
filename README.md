@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there, I'm Jayamurugan Ravikumar 👋
+
+## 🤖 Robotics Software Engineer
+
+> Passionate about developing intelligent robotic systems that bridge the gap between AI and real-world automation
 
 ## Tools
 
@@ -37,3 +41,14 @@
 | Nvidia Jetson | Raspberry Pi                                                                                                                                                                    | Arduino |
 | ---           | ---                                                                                                                                                                             | ---     |
 |               | <img src="https://github.com/JayamuruganRavikumar/devicon/blob/dev/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="55" height="55"/> | <img src="https://github.com/JayamuruganRavikumar/devicon/blob/dev/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" width="55" height="55"/> |
+
+### 🚀 What I'm Working On
+- 🔬 **Advanced Motion Planning**: Developing real-time algorithms for robotic manipulation
+- 👁️ **3D Vision Systems**: Creating perception pipelines for unstructured environments  
+- 🤝 **Human-Robot Collaboration**: Building adaptive frameworks for inclusive robotics
+- 📍 **Navigation Stack**: Optimizing autonomous mobile robot navigation algorithms
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JayamuruganRavikumar&show_icons=true&theme=radical)
+
